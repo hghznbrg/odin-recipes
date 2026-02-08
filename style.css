@@ -1,28 +1,12 @@
-
-
-
-
-p{
-    color: darkorchid;
-}
-
 h1{
-    color: gold;
-}
-
-
-.story{
-    background-color: black;
-    color: turquoise;
-
-}
-
-ul{
-    background-color: black;
-    color: turquoise;
-}
-
-img{
-    display: inline-block;
-
+    display: block;
+    text-align: center;
+    background-color: gold;
+    color: darkmagenta;
+    font-family: Helvetica;
+    font-size: 32px;
+    margin-bottom: 60px;
+    padding: 10px;
+    border: 30px;
+    border-color: black;
 }
